@@ -2,8 +2,6 @@
 
 This is my static resume project created as part of **GIAIC Milestone 2**.
 
-## 🚀 Live Demo
-[View on Vercel](your-vercel-link-here)
 
 ## 🧠 Technologies Used
 - HTML  
