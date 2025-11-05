@@ -1,20 +1,20 @@
-# Milestone2-Resume-By-Javeria-Nigar
-Milestone 2: Publish on GitHub and Host on Vercel (100 Points)
-Objective:
-Publish your static resume created in Milestone 1 to GitHub and deploy it live using Vercel.
-Requirements:
+# Static Resume by Javeria Nigar
 
- Push the project code to a GitHub repository.
+This is my static resume project created as part of **GIAIC Milestone 2**.
 
- Deploy the project on Vercel so that the resume is publicly accessible.
-Scoring Breakdown:
+## 🚀 Live Demo
+[View on Vercel](your-vercel-link-here)
 
- GitHub Repository Setup and Organization (50 points):
+## 🧠 Technologies Used
+- HTML  
+- CSS  
+- GitHub  
+- Vercel  
 
-o Is the code properly committed and pushed to a GitHub repository?
-o Is the repository well-organized with proper folder structures and file naming
-conventions?
+## 📌 Objective
+- Build and deploy a static resume site.
+- Host on GitHub and make it live via Vercel.
 
- Successful Deployment on Vercel (50 points):
-
-o Is the resume successfully deployed and accessible online via Vercel? 
+## 🏆 Scoring Criteria
+- GitHub setup & organization (50 points)
+- Successful deployment on Vercel (50 points)
